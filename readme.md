@@ -27,6 +27,7 @@ O projeto contém:
 3. Para executar os exemplos de PHP:
 
 -Certifique-se de ter o PHP instalado no seu computador.
+
 -Coloque os arquivos PHP em um servidor local (como o XAMPP) ou use o servidor embutido do PHP: php -S localhost:8000
 
 4. Explore os arquivos e edite conforme necessário para personalizar ou expandir o projeto.
